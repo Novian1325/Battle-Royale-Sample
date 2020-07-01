@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Scenes/Episode 1 - Complete.unity
+- path: Assets/Scenes/Episode 2 - Complete.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
