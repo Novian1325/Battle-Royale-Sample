@@ -41,7 +41,7 @@ public class ChangeCircle : MonoBehaviour
 			circle.Draw(Segments, XRadius, XRadius);
 		}
 		ZoneWall.transform.localScale = new Vector3 ((XRadius * 0.01f), 1, (XRadius * 0.01f));
-		Debug.Log (XRadius);
+		//Debug.Log (XRadius);
 	}
 
 	private float[] ShrinkCircle(float amount)
